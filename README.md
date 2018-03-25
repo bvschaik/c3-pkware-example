@@ -10,7 +10,7 @@ Run the following command from the command-line or your IDE:
 
     mvn package
 
-The executable JAR file is now in the `target` director.
+The executable JAR file is now in the `target` directory.
 
 ## Running the program
 
